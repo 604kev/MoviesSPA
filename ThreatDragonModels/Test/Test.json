@@ -1,9 +1,22 @@
 {
   "summary": {
-    "title": "Test"
+    "title": "Test",
+    "owner": "Kevin",
+    "description": "Test"
   },
   "detail": {
-    "contributors": [],
-    "diagrams": []
+    "contributors": [
+      {
+        "name": "Kevin"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Test",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Kevin"
   }
 }
